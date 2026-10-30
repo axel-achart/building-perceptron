@@ -1,17 +1,5 @@
-# Environnements virtuels
 .venv/
-venv/
-env/
-ENV/
-
-# Python
 __pycache__/
-*.py[cod]
-*.egg-info/
-.pytest_cache/
 .ipynb_checkpoints/
 *.pyc
-
-# Variables d'environnement
-.env
-.env.local
+.DS_Store
